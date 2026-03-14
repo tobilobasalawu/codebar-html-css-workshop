@@ -13,8 +13,9 @@ Each folder matches a section of the workshop. If you get stuck at any point, ju
 | `step-03-css-basics` | CSS Fundamentals | Selectors, colours, fonts, button styling |
 | `step-04-box-model` | Box Model & Spacing | Margin, padding, border, centring content |
 | `step-05-flexbox` | Layout with Flexbox | Cards, navigation, side-by-side layouts |
-| `step-06-hover-effects` | Interactive Styling | Hover effects, transitions, shadows |
-| `step-07-responsive` | Responsive Design | Media queries, mobile-friendly layouts |
+| `step-06-layouts` | Flexbox Layouts | Div containers |
+| `step-07-hover-effects` | Interactive Styling | Hover effects, transitions, shadows |
+| `step-08-responsive` | Responsive Design | Media queries, mobile-friendly layouts |
 | `final-project` | Complete Project | The finished page with everything combined |
 
 ## Getting Started
