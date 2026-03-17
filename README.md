@@ -69,7 +69,7 @@ Want to keep learning? Here are some brilliant free resources:
 
 - **Event:** codebar Festival 2026
 - **Duration:** 120 minutes
-- **Facilitator:** Oluwatobi Salawu (Tobi) — [oluwwatobisalawu.com](https://oluwwatobisalawu.com)
+- **Facilitator:** Oluwatobi Salawu (Tobi) — [oluwatobisalawu.com](https://oluwatobisalawu.com)
 - **Audience:** Complete beginners — no prior coding knowledge needed
 
 ## Licence
